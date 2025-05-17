@@ -1,5 +1,5 @@
-Aşağıdaki script ile master node otomatik olarak oluşturulabilir. yapman gereken tek şey değişkenleri ayarlamak. Master ve Workerlar için ayrı scriptler var
-dosyalara çalıştırma izni vermen gerekmektedir.
+İlk script otomatik master node oluşturur ikincisi ise worker'lar içindir, yapman gereken tek şey değişkenleri ayarlamak. 
+dosyalara çalıştırma izni vermen gerekmektedir. Ubuntu 24.04 için oluşturuldu ama kullanılan sürümler 22 yi de desteklemektedir.
 
 
 
