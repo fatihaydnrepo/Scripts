@@ -1,4 +1,6 @@
-Aşağıdaki script ile master node otomatik olarak oluşturulabilir. yapman gereken tek şey değişkenleri ayarlamak.
+Aşağıdaki script ile master node otomatik olarak oluşturulabilir. yapman gereken tek şey değişkenleri ayarlamak. Master ve Workerlar için ayrı scriptler var
+dosyalara çalıştırma izni vermen gerekmektedir.
+
 
 
 #!/bin/bash
